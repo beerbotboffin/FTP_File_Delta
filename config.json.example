@@ -1,0 +1,9 @@
+{
+    "source": "C:/Users/Me/Documents/",
+    "target": "/data/www/",
+    "ftpaddress": "<server ip address>",
+    "username": "<FTP username?",
+    "password": "<FTP password>",
+    "pem": "C:/Users/Me/Documents/SSH Keys/webserver.pem",
+    "lastChange": "2022-11-27 06:00:00"
+}
